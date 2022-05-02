@@ -7,4 +7,4 @@ Platforms & Languages
 <img src="https://img.shields.io/badge/php-7.2.34-green>"/>
 Framework
 <br/>
-<img src="https://img.shields.io/badge/Codeigniter-#EF4223?style=flat-square&logo=Codeigniter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeigniter-#EF4223?style=flat-square&logo=codeigniter&logoColor=white"/>
