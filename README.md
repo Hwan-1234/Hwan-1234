@@ -18,6 +18,6 @@ Platforms & Languages
 <br/>
 Studying
 <br/>
-<a href="https://nomadcoders.co/wetube" taget="_blank"><img src="https://nomadcoders.co/m.svg" style="width: 36px;height: 27;"/>Nomadcoder</a>
+<a href="https://nomadcoders.co/wetube" target="_blank"><img src="https://nomadcoders.co/m.svg" style="width: 36px;height: 27;"/>Nomadcoder</a>
 <br/>
 - <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
