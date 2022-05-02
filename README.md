@@ -15,3 +15,9 @@ Platforms & Languages
 <br/>
 <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mssql-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<br/>
+Studying
+<br/>
+<a href="https://nomadcoders.co"><img src="https://nomadcoders.co/m.svg" style="width: 36px;height: 27;"/>Nomadcoder</a>
+<br/>
+- <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
