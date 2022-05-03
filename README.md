@@ -17,7 +17,7 @@ Platforms & Languages
 <br/>
 Studying
 <br/>
-<a href="https://nomadcoders.co/wetube" target="_blank"><img src="https://nomadcoders.co/m.svg" style="width: 36px;height: 27;"/>Nomadcoder</a>
+<a href="https://nomadcoders.co/wetube" target="_blank"><img src="https://nomadcoders.co/m.svg" style="width: 36px;height: 27;"/>Nomadcoder-wetube project</a>
 <br/>
 - <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 - <img src="https://img.shields.io/badge/pug-A86454?style=flat-square&logo=pug&logoColor=white"/>
