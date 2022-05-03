@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m Hwan, Web Backand developer
 - what you are doing now 
-Website maintenance and new development
-- <a href="https://greenart.co.kr" target="_blank">greenart.co.kr</a> , <a href="https://gnitac.co.kr.co.kr" target="_blank">gnitac.co.kr</a>
+is Website maintenance and new development
+- <a href="https://greenart.co.kr" target="_blank">greenart.co.kr</a> , <a href="https://gnitac.co.kr.co.kr" target="_blank">gnitac.co.kr</a> and HRD-net crawling (python , OPEN API) , new business site online lecture developing
 
 Platforms & Languages
 <br/>
