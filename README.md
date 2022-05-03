@@ -20,3 +20,7 @@ Studying
 <a href="https://nomadcoders.co/wetube" target="_blank"><img src="https://nomadcoders.co/m.svg" style="width: 36px;height: 27;"/>Nomadcoder</a>
 <br/>
 - <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+- <img src="https://img.shields.io/badge/pug-A86454?style=flat-square&logo=pug&logoColor=white"/>
+- <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+- <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white"/>
+- <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
