@@ -1,7 +1,6 @@
 <a href="mailto:mwwo88@gmail.com"><img src="https://img.shields.io/badge/mwwo88@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 👋 Hi, I’m Hwan, Web Backand developer</br>
-what was done</br>
 Website maintenance and new development</br>
 <a href="https://greenart.co.kr" target="_blank">greenart.co.kr</a> , <a href="https://gnitac.co.kr" target="_blank">gnitac.co.kr</a> (PHP , codeigniter) and HRD-net crawling (python , OPEN API) , new business site backend developing
 
