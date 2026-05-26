@@ -6,7 +6,7 @@ AI 에이전트를 적극적으로 활용하여 비즈니스 가치를 빠르게
 ---
 
 ## 🚀 About Me
-- Current: 주식회사 아이디벨 (ID Bell) 백엔드 파트장 / PL
+- Current: 주식회사 아이디벨 백엔드 파트장 / PL
 - Main Focus: 확장성 있는 백엔드 API 설계, 레거시 시스템 모듈화 및 고도화
 - AI-Driven Development: Claude, Cursor 등을 활용한 고속 개발 방법론(Vibe Coding) 실무 적용
 - Side Project: 개인 플랫폼 [디비랩스 (dycdblabs.io)](https://dycdblabs.io/) 기획 및 전체 개발/운영 중
