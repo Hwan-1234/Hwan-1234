@@ -18,7 +18,7 @@ AI 에이전트를 적극적으로 활용하여 비즈니스 가치를 빠르게
 ### Backend & Database
 - Languages & Frameworks: Node.js (NestJS), Java (Spring Boot), PHP, Python
 - Databases: MySQL, MSSQL, Redis
-- Infra/DevOps: AWS, Linux Server Management
+- Infra/DevOps: AWS, Linux Server Management, Docker
 
 ### Frontend & Others
 - Frameworks: Next.js, Flutter, jQuery
